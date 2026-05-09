@@ -427,7 +427,3 @@ Possible upgrades:
 - Azure SDK for Python
 
 ---
-
-## Author
-
-Mark Clarke
